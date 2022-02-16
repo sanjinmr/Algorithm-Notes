@@ -1,0 +1,3 @@
+include ':beautyofalgorithm'
+include ':Swordfingeralgorithm2'
+include ':app'

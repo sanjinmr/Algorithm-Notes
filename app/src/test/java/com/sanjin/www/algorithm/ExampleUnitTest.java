@@ -5,6 +5,7 @@ import com.sanjin.www.algorithm.mergesort.MergeSort;
 import com.sanjin.www.algorithm.radixsort.RadixSortMSD;
 import com.sanjin.www.algorithm.insertsort.shellsort.AlgorithmShell1;
 import com.sanjin.www.algorithm.strings.StringToInt;
+import com.sanjin.www.algorithm.strings.StringValidBrackets;
 import com.sanjin.www.algorithm.swapsort.quicksort.QuickSort2;
 import com.sanjin.www.algorithm.trees.BST;
 import com.sanjin.www.algorithm.trees.BinaryTreeTraversal;
@@ -150,6 +151,7 @@ public class ExampleUnitTest {
 
     @Test
     public void test13() {
-        StringToInt.test();
+        //StringToInt.test();
+        StringValidBrackets.test();
     }
 }
